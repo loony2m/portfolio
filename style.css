@@ -148,6 +148,7 @@ body {
 .main-block__body {
   padding: 136px 0px 48px 0px;
   max-width: 650px;
+  margin-right: 45px;
 }
 
 .main-block__title {
